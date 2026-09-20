@@ -7,7 +7,7 @@ This repository includes the notebook `SalesAnalysis.ipynb`, which performs an e
 ## File Scope
 
 - `SalesAnalysis.ipynb`: main notebook for the sales analysis
-- `assets/Sales Dataset.csv`: source dataset used in the notebook
+- `Sales Dataset.csv`: source dataset used in the notebook
 
 ## Analysis Objectives
 
